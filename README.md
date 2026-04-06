@@ -9,7 +9,7 @@
 ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝  ╚═════╝ ╚═╝  ╚═══╝
 ```
 
-**`> student @ IIT Bombay · building things with python · learning everyday`**
+**`> student @ IIT Bombay · building things · learning everyday`**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=arjunpawar2007ap-arch&style=flat-square&color=00ff41&label=visitors)](https://github.com/arjunpawar2007ap-arch)
 
@@ -24,7 +24,7 @@ handle: arjunpawar2007ap-arch
 location: IIT Bombay, India
 status: "compiling knowledge..."
 currently_learning:
-  - python (and everything around it)
+  - python, c++, linux.
   - data structures & algorithms
   - whatever looks interesting at 2am
 ```
