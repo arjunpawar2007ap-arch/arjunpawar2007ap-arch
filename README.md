@@ -1,12 +1,12 @@
 <div align="center">
 
 ```
- █████╗ ██████╗      ██╗██╗   ██╗███╗   ██╗
-██╔══██╗██╔══██╗     ██║██║   ██║████╗  ██║
-███████║██████╔╝     ██║██║   ██║██╔██╗ ██║
-██╔══██║██╔══██╗██   ██║██║   ██║██║╚██╗██║
-██║  ██║██║  ██║╚█████╔╝╚██████╔╝██║ ╚████║
-╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝  ╚═════╝ ╚═╝  ╚═══╝
+  █████╗ ██████╗      ██╗██╗   ██╗███╗   ██╗
+ ██╔══██╗██╔══██╗     ██║██║   ██║████╗  ██║
+ ███████║██████╔╝     ██║██║   ██║██╔██╗ ██║
+ ██╔══██║██╔══██╗██   ██║██║   ██║██║╚██╗██║
+ ██║  ██║██║  ██║╚█████╔╝╚██████╔╝██║ ╚████║
+ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝  ╚═════╝ ╚═╝  ╚═══╝
 ```
 
 **`> student @ IIT Bombay · building things · learning everyday`**
@@ -35,6 +35,10 @@ currently_learning:
 
 <p>
   <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=013243" />
+  <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=150458" />
+  <img src="https://img.shields.io/badge/Matplotlib-0D1117?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pygame-0D1117?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032" />
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624" />
@@ -68,16 +72,6 @@ currently_learning:
 
 <div align="center">
 
-```
- ██████╗ ██████╗ ██████╗ ███████╗    ██╗███████╗
-██╔════╝██╔═══██╗██╔══██╗██╔════╝    ██║██╔════╝
-██║     ██║   ██║██║  ██║█████╗      ██║███████╗
-██║     ██║   ██║██║  ██║██╔══╝      ██║╚════██║
-╚██████╗╚██████╔╝██████╔╝███████╗    ██║███████║
- ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝    ╚═╝╚══════╝
-              P O E T R Y
-```
-
 **`if it runs, ship it. if it doesn't, debug at 3am.`**
 
 </div>
@@ -85,7 +79,7 @@ currently_learning:
 ---
 
 <div align="center">
-  <i>💬 feel free to reach out — always down to collab or chat about tech!</i>
+  <i>💬 feel free to reach out, always down to collab or chat about tech!</i>
   <br><br>
   <img src="https://img.shields.io/badge/open_to-collaboration-00ff41?style=flat-square" />
 </div>
