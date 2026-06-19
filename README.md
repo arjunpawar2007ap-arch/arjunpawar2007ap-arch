@@ -19,9 +19,10 @@
 
 ```yaml
 # whoami
-name: Arjun
+name: Arjun Pawar
 handle: arjunpawar2007ap-arch
-location: IIT Bombay, India
+Linkedin: https://www.linkedin.com/in/arjun-pawar-959177277/
+location: Indian Institute of Technology Bombay, India
 status: "compiling knowledge..."
 currently_learning:
   - python, c++, linux.
