@@ -21,7 +21,8 @@
 # whoami
 name: Arjun Pawar
 handle: arjunpawar2007ap-arch
-Linkedin: https://www.linkedin.com/in/arjun-pawar-959177277/
+website: https://arjunpawar2007ap-arch.github.io/Portfolio_site/
+linkedin: https://www.linkedin.com/in/arjun-pawar-959177277/
 location: Indian Institute of Technology Bombay, India
 status: "compiling knowledge..."
 currently_learning:
