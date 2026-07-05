@@ -65,9 +65,7 @@ I don't stick to one field. I build across mech, electronics, and CS because I w
 
 ### `Leetcode stats`
 
-<div align="center">
 [![LeetCode Stats](https://leetcard.jacoblin.cool/napoleonictrafficcone08?theme=dark&ext=heatmap)](https://leetcard.jacoblin.cool/napoleonictrafficcone08)
-</div>
 
 ---
 
