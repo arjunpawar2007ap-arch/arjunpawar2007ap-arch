@@ -30,7 +30,7 @@ I don't stick to one field. I build across mech, electronics, and CS because I w
 
 ---
 
-### `⚡ tech i work with`
+### `Tech I work with`
 
 <p>
   <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />
@@ -50,7 +50,7 @@ I don't stick to one field. I build across mech, electronics, and CS because I w
 
 ---
 
-### `📊 github stats`
+### `Github stats`
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=arjunpawar2007ap-arch&show_icons=true&theme=github_dark&bg_color=0d1117&hide_border=true&icon_color=00ff41&title_color=00ff41&text_color=c9d1d9" />
@@ -63,7 +63,13 @@ I don't stick to one field. I build across mech, electronics, and CS because I w
 
 ---
 
-### `🐍 contribution snake`
+### `Leetcode stats`
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/napoleonictrafficcone08?theme=dark&ext=heatmap)](https://leetcard.jacoblin.cool/napoleonictrafficcone08)
+
+---
+
+### `Contribution snake`
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/arjunpawar2007ap-arch/arjunpawar2007ap-arch/output/github-snake-dark.svg" alt="snake eating my contributions" />
