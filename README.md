@@ -37,7 +37,6 @@ I don't stick to one field. I build across mech, electronics, and CS because I w
   <img src="https://img.shields.io/badge/C++-0D1117?style=for-the-badge&logo=cplusplus&logoColor=00599C" />
   <img src="https://img.shields.io/badge/MATLAB-0D1117?style=for-the-badge&logo=mathworks&logoColor=orange" />
   <img src="https://img.shields.io/badge/LTspice-0D1117?style=for-the-badge&logo=analog&logoColor=00A19C" />
-  <img src="https://img.shields.io/badge/Verilog-0D1117?style=for-the-badge&logo=verilog&logoColor=white" />
   <img src="https://img.shields.io/badge/Fusion_360-0D1117?style=for-the-badge&logo=autodesk&logoColor=orange" />
   <img src="https://img.shields.io/badge/NumPy-0D1117?style=for-the-badge&logo=numpy&logoColor=013243" />
   <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=150458" />
