@@ -66,9 +66,8 @@ I don't stick to one field. I build across mech, electronics, and CS because I w
 ### `Leetcode stats`
 
 <div align="center">
-  <h3>Leetcode stats</h3>
   <a href="https://leetcard.jacoblin.cool/napoleonictrafficone08">
-    <img src="https://leetcard.jacoblin.cool/napoleonictrafficone08?theme=dark&ext=heatmap" alt="LeetCode Stats" />
+    <img src="https://leetcard.jacoblin.cool/napoleonictrafficone08?theme=dracula&ext=heatmap" alt="LeetCode Stats" />
   </a>
 </div>
 
