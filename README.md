@@ -53,8 +53,8 @@ I don't stick to one field. I build across mech, electronics, and CS because I w
 ### `Github stats`
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=arjunpawar2007ap-arch&show_icons=true&theme=github_dark&bg_color=0d1117&hide_border=true&icon_color=00ff41&title_color=00ff41&text_color=c9d1d9" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunpawar2007ap-arch&layout=compact&theme=github_dark&bg_color=0d1117&hide_border=true&title_color=00ff41&text_color=c9d1d9" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=arjunpawar2007ap-arch&show_icons=true&theme=github_dark&bg_color=0d1117&hide_border=true&icon_color=00ff41&title_color=00ff41&text_color=c9d1d9" />
+  <img height="170" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=arjunpawar2007ap-arch&layout=compact&theme=github_dark&bg_color=0d1117&hide_border=true&title_color=00ff41&text_color=c9d1d9" />
 </div>
 
 <div align="center">
