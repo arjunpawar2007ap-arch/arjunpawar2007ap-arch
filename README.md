@@ -23,7 +23,7 @@ linkedin: https://www.linkedin.com/in/arjun-pawar-959177277/
 location: Indian Institute of Technology Bombay, India
 focus:
   - I DO EVERYTHING!
-  - (pure mathematics & physics, DSA, electronics, robotics, quant)
+  - (pure mathematics & physics, ML, electronics, robotics, quant, DSA)
 ```
 
 I don't stick to one field. I build across mech, electronics, and CS because I want to understand things from the ground up, not because one of them is "my thing."
