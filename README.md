@@ -65,7 +65,12 @@ I don't stick to one field. I build across mech, electronics, and CS because I w
 
 ### `Leetcode stats`
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/napoleonictrafficcone08?theme=dark&ext=heatmap)](https://leetcard.jacoblin.cool/napoleonictrafficcone08)
+<div align="center">
+  <h3>Leetcode stats</h3>
+  <a href="https://leetcard.jacoblin.cool/napoleonictrafficone08">
+    <img src="https://leetcard.jacoblin.cool/napoleonictrafficone08?theme=dark&ext=heatmap" alt="LeetCode Stats" />
+  </a>
+</div>
 
 ---
 
