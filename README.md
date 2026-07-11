@@ -19,7 +19,7 @@
   <!-- LeetCode Group -->
   <p align="center" style="margin-top: 20px;">
     <a href="https://leetcard.jacoblin.cool/napoleonictrafficcone08">
-      <img src="https://leetcard.jacoblin.cool/napoleonictrafficcone08?theme=nord&ext=heatmap&radius=10" alt="LeetCode Stats" />
+      <img src="https://leetcard.jacoblin.cool/napoleonictrafficcone08?theme=dark&font=SFMono-Regular&ext=heatmap&radius=14" alt="LeetCode Stats" />
     </a>
   </p>
 </div>
