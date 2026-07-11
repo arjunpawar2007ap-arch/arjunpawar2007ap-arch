@@ -1,13 +1,34 @@
 <div align="center">
 
 ```
- █████╗ ██████╗      ██╗██╗   ██╗███╗   ██╗
-██╔══██╗██╔══██╗     ██║██║   ██║████╗  ██║
-███████║██████╔╝     ██║██║   ██║██╔██╗ ██║
-██╔══██║██╔══██╗██   ██║██║   ██║██║╚██╗██║
-██║  ██║██║  ██║╚█████╔╝╚██████╔╝██║ ╚████║
-╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝  ╚═════╝ ╚═╝  ╚═══╝
+arjun@iitb:~$ fastfetch
 ```
+
+</div>
+
+```
+ █████╗ ██████╗      ██╗██╗   ██╗███╗   ██╗        arjun@iitb
+██╔══██╗██╔══██╗     ██║██║   ██║████╗  ██║        ----------------
+███████║██████╔╝     ██║██║   ██║██╔██╗ ██║        OS: Mechanical Engineering (B.Tech)
+██╔══██║██╔══██╗██   ██║██║   ██║██║╚██╗██║        Host: IIT Bombay, 2024 Batch
+██║  ██║██║  ██║╚█████╔╝╚██████╔╝██║ ╚████║        Kernel: CPI 7.7
+╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝  ╚═════╝ ╚═╝  ╚═══╝        Uptime: 2nd Year
+
+                                                    Packages: Robotics Minor, CMInDS Minor
+                                                    Shell: /bin/relentless
+                                                    Resolution: First-Principles
+                                                    DE: SYSCON, Prof. Anguluri (Financial NLP,
+                                                        Adversarial Attacks on LLMs)
+                                                    WM: ML Research Intern @ FlyRank AI
+                                                    Terminal: ERC (Electronics and Robotics Club)
+                                                    CPU: I do everything. Physics, ML,
+                                                         electronics, robotics, DSA, quant.
+                                                    Memory: learns by building, not by reading
+
+                                                    ●  ●  ●  ●  ●  ●  ●  ●
+```
+
+<div align="center">
 
 **`> MechE @ IIT Bombay · building things from first principles`**
 
@@ -15,20 +36,18 @@
 
 ---
 
-```yaml
-name: Arjun Pawar
-handle: arjunpawar2007ap-arch
-website: https://arjunpawar2007ap-arch.github.io/Portfolio_site/
-linkedin: https://www.linkedin.com/in/arjun-pawar-959177277/
-location: Indian Institute of Technology Bombay, India
-focus:
-  - I DO EVERYTHING!
-  - (pure mathematics & physics, ML, electronics, robotics, quant, DSA)
+### `$ cat about.txt`
+
+```
+I don't stick to one field. I pick what's hard and I finish it.
+If something looks impossible, that's usually the thing I end up doing anyway.
+I work alone by default and I'd rather suffer through the hard way
+than take a shortcut that doesn't teach me anything.
 ```
 
 ---
 
-### `Tech I work with`
+### `$ ./tech_stack.sh --list`
 
 <p>
   <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=3776AB" />
@@ -48,7 +67,7 @@ focus:
 
 ---
 
-### `Github stats`
+### `$ github --stats`
 
 <div align="center">
   <img height="170" src="https://github-readme-stats-fast.vercel.app/api?username=arjunpawar2007ap-arch&show_icons=true&theme=github_dark&bg_color=0d1117&hide_border=true&icon_color=00ff41&title_color=00ff41&text_color=c9d1d9" />
@@ -61,7 +80,7 @@ focus:
 
 ---
 
-### `Leetcode stats`
+### `$ leetcode --stats`
 
 <div align="center">
   <a href="https://leetcard.jacoblin.cool/napoleonictrafficcone08">
@@ -71,7 +90,7 @@ focus:
 
 ---
 
-### `Contribution snake`
+### `$ ./contribution_snake.sh`
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/arjunpawar2007ap-arch/arjunpawar2007ap-arch/output/github-snake-dark.svg" alt="snake eating my contributions" />
@@ -81,10 +100,14 @@ focus:
 
 <div align="center">
 
-**`if it runs, ship it. if it doesn't, debug until it does.`**
+```
+arjun@iitb:~$ echo $MOTTO
+"if it runs, ship it. if it doesn't, debug until it does."
 
-<br>
+arjun@iitb:~$ echo $STATUS
+open to collaborating on research, robotics, or ML
+```
 
-open to collaborating on research, robotics, or ML - reach out on <a href="https://www.linkedin.com/in/arjun-pawar-959177277/">LinkedIn</a>
+📫 reach me on <a href="https://www.linkedin.com/in/arjun-pawar-959177277/">LinkedIn</a> · 🌐 <a href="https://arjunpawar2007ap-arch.github.io/Portfolio_site/">portfolio</a>
 
 </div>
