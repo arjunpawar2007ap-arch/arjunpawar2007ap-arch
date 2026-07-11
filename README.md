@@ -1,1 +1,1 @@
-![arjun terminal](terminal.svg?v=9)
+![arjun terminal](terminal.svg)
