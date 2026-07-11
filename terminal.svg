@@ -7,7 +7,7 @@
 </defs>
 
 <g filter="url(#shadow)">
-<rect x="10" y="10" width="960" height="630" rx="14" fill="#0d1117" stroke="#30363d" stroke-width="1"/>
+<rect x="10" y="10" width="960" height="630" rx="14" fill="#041206" stroke="#00ff41" stroke-width="1" stroke-opacity="0.2"/>
 <path d="M10,24 a14,14 0 0 1 14,-14 h932 a14,14 0 0 1 14,14 v30 h-960 z" fill="#161b22"/>
 <circle cx="38" cy="39" r="7" fill="#ff5f56"/>
 <circle cx="62" cy="39" r="7" fill="#ffbd2e"/>
@@ -15,7 +15,7 @@
 <text x="490.0" y="44" text-anchor="middle" font-size="13" fill="#8b949e">arjun@iitb: ~</text>
 </g>
 <clipPath id="bodyclip"><rect x="11" y="55" width="958" height="584" rx="10"/></clipPath>
-<rect x="11" y="55" width="958" height="584" fill="#0a0e14"/>
+<rect x="11" y="55" width="958" height="584" fill="#020b04"/>
 <g clip-path="url(#bodyclip)">
 <text x="40" y="92" font-size="13.5" fill="#39ff14" xml:space="preserve"> █████╗ ██████╗      ██╗██╗   ██╗███╗   ██╗</text>
 <text x="40" y="112" font-size="13.5" fill="#39ff14" xml:space="preserve">██╔══██╗██╔══██╗     ██║██║   ██║████╗  ██║</text>
