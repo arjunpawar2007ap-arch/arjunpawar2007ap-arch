@@ -187,9 +187,9 @@
 <text x="40" y="534" font-size="14" fill="#39ff14">arjun@iitb:~$ <tspan fill="#c9d1d9">echo $LINKS</tspan></text>
 
 <text x="40" y="556" font-size="13.5" fill="#8b949e">
-  <a href="https://arjunpawar2007ap-arch.github.io/Portfolio_site/" target="_blank"><tspan fill="#61afef" class="clickable-text">🌐 Portfolio</tspan></a>  ·  
-  <a href="https://www.linkedin.com/in/arjun-pawar-959177277/" target="_blank"><tspan fill="#00599C" class="clickable-text">🔗 LinkedIn</tspan></a>  ·  
-  <a href="https://leetcode.com/napoleonictrafficcone08" target="_blank"><tspan fill="#e5c07b" class="clickable-text">💡 LeetCode</tspan></a>
+  [![Portfolio](https://img.shields.shields.io/badge/Portfolio-020b04?style=flat-square&logo=google-chrome&logoColor=00ff41)](https://arjunpawar2007ap-arch.github.io/Portfolio_site/)
+[![LinkedIn](https://img.shields.shields.io/badge/LinkedIn-020b04?style=flat-square&logo=linkedin&logoColor=00ff41)](https://www.linkedin.com/in/arjun-pawar-959177277/)
+[![LeetCode](https://img.shields.shields.io/badge/LeetCode-020b04?style=flat-square&logo=leetcode&logoColor=00ff41)](https://leetcode.com/napoleonictrafficcone08)
 </text>
 
 <text x="40" y="582" font-size="14" fill="#39ff14">arjun@iitb:~$ </text>
