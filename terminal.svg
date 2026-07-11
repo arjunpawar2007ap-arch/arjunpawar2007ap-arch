@@ -118,11 +118,11 @@
 
 <g transform="translate(408, 465)">
   <rect width="82" height="28" rx="4" fill="#0D1117" stroke="#30363d" stroke-width="1"/>
-  <g transform="translate(6, 6)">
+  <g transform="translate(5, 6)">
     <path d="M2 2v12h14" fill="none" stroke="#8b949e" stroke-width="1.5" stroke-linecap="round"/>
     <path d="M2 12l3-4 4 2 5-7" fill="none" stroke="#ffffff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
-  <text x="24" y="18" fill="#ffffff" font-family="SFMono-Regular, Consolas, Monaco, monospace" font-size="9.5" font-weight="bold">Matplotlib</text>
+  <text x="23" y="18" fill="#ffffff" font-family="SFMono-Regular, Consolas, Monaco, monospace" font-size="9.5" font-weight="bold">Matplotlib</text>
 </g>
   
 <text x="40" y="520" font-size="14" fill="#39ff14">arjun@iitb:~$ <tspan fill="#c9d1d9">echo $STATUS</tspan></text>
