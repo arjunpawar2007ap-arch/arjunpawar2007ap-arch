@@ -163,7 +163,7 @@
 </g>
   
 <text x="40" y="505" font-size="14" fill="#39ff14">arjun@iitb:~$ <tspan fill="#c9d1d9">echo $STATUS</tspan></text>
-<text x="40" y="540" font-size="13.5" fill="#8b949e">open to collaborating on research, robotics, or ML</text>
+<text x="40" y="520" font-size="13.5" fill="#8b949e">open to collaborating on research, robotics, or ML</text>
 <text x="40" y="565" font-size="14" fill="#39ff14">arjun@iitb:~$</text>
 <rect x="149.2" y="553" width="9" height="16" fill="#39ff14"><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/></rect>
 </g>
