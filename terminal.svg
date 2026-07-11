@@ -4,6 +4,10 @@
   <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
     <feDropShadow dx="0" dy="8" stdDeviation="18" flood-color="#000000" flood-opacity="0.55"/>
   </filter>
+  <style>
+    .clickable-text:hover { fill: #00ff41 !important; cursor: pointer; text-decoration: underline; }
+    .clickable-badge:hover rect { fill: #051a0b !important; stroke: #00ff41 !important; cursor: pointer; }
+  </style>
 </defs>
 
 <g filter="url(#shadow)">
@@ -98,7 +102,6 @@
 
 <text x="40" y="464" font-size="14" fill="#39ff14">arjun@iitb:~$ <tspan fill="#c9d1d9">./tech_stack.sh --used</tspan></text>
 
-<!-- Row of Badges pushed cleanly beneath text baseline line clearance -->
 <g transform="translate(40, 480)">
   <rect width="82" height="28" rx="4" fill="#0D1117" stroke="#30363d" stroke-width="1"/>
   <g transform="translate(8, 6) scale(0.65)">
@@ -181,12 +184,17 @@
   <text x="30" y="18" fill="#FFFFFF" font-family="SFMono-Regular, Consolas, Monaco, monospace" font-size="11" font-weight="bold">Linux</text>
 </g>
 
-<text x="40" y="534" font-size="14" fill="#39ff14">arjun@iitb:~$ <tspan fill="#c9d1d9">echo $STATUS</tspan></text>
-<text x="40" y="556" font-size="13.5" fill="#8b949e">open to collaborating on research, robotics, or ML</text>
-<text x="40" y="578" font-size="14" fill="#39ff14">arjun@iitb:~$</text>
+<text x="40" y="534" font-size="14" fill="#39ff14">arjun@iitb:~$ <tspan fill="#c9d1d9">echo $LINKS</tspan></text>
 
-<!-- Aligned Blinking Cursor Block directly matching baseline text metric -->
-<rect x="149" y="565" width="9" height="16" fill="#39ff14">
+<text x="40" y="556" font-size="13.5" fill="#8b949e">
+  <a href="https://arjunpawar2007ap-arch.github.io/Portfolio_site/" target="_blank"><tspan fill="#61afef" class="clickable-text">Portfolio</tspan></a>  ·  
+  <a href="https://www.linkedin.com/in/arjun-pawar-959177277/" target="_blank"><tspan fill="#00599C" class="clickable-text">LinkedIn</tspan></a>  ·  
+  <a href="https://leetcode.com/napoleonictrafficcone08" target="_blank"><tspan fill="#e5c07b" class="clickable-text">LeetCode</tspan></a>
+</text>
+
+<text x="40" y="582" font-size="14" fill="#39ff14">arjun@iitb:~$ </text>
+
+<rect x="156" y="569" width="9" height="16" fill="#39ff14">
   <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
 </rect>
 
