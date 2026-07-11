@@ -28,16 +28,16 @@
 <text x="516.8" y="92" font-size="13.5" fill="#c9d1d9">Mechanical Engineering (B.Tech)</text>
 <circle cx="470" cy="107" r="4" fill="#39ff14"/>
 <text x="484" y="112" font-size="13.5" fill="#61afef">Host:</text>
-<text x="533.6" y="112" font-size="13.5" fill="#c9d1d9">IIT Bombay, 2024 Batch</text>
+<text x="533.6" y="112" font-size="13.5" fill="#c9d1d9">IIT Bombay '29</text>
 <circle cx="470" cy="127" r="4" fill="#39ff14"/>
 <text x="484" y="132" font-size="13.5" fill="#61afef">Kernel:</text>
-<text x="550.4" y="132" font-size="13.5" fill="#c9d1d9">CPI 7.7</text>
+<text x="550.4" y="132" font-size="13.5" fill="#c9d1d9">UNDEFINED</text>
 <circle cx="470" cy="147" r="4" fill="#39ff14"/>
 <text x="484" y="152" font-size="13.5" fill="#61afef">Uptime:</text>
 <text x="550.4" y="152" font-size="13.5" fill="#c9d1d9">2nd Year</text>
 <circle cx="470" cy="167" r="4" fill="#39ff14"/>
 <text x="484" y="172" font-size="13.5" fill="#61afef">Packages:</text>
-<text x="567.2" y="172" font-size="13.5" fill="#c9d1d9">Robotics Minor, CMInDS Minor</text>
+<text x="567.2" y="172" font-size="13.5" fill="#c9d1d9">UNDEFINED</text>
 <circle cx="470" cy="187" r="4" fill="#39ff14"/>
 <text x="484" y="192" font-size="13.5" fill="#61afef">Shell:</text>
 <text x="542.0" y="192" font-size="13.5" fill="#c9d1d9">/bin/relentless</text>
@@ -46,13 +46,13 @@
 <text x="516.8" y="212" font-size="13.5" fill="#c9d1d9">SYSCON, Prof. Anguluri (Financial NLP)</text>
 <circle cx="470" cy="227" r="4" fill="#39ff14"/>
 <text x="484" y="232" font-size="13.5" fill="#61afef">WM:</text>
-<text x="516.8" y="232" font-size="13.5" fill="#c9d1d9">FlyRank AI (ML Research Intern)</text>
+<text x="516.8" y="232" font-size="13.5" fill="#c9d1d9">UNDEFINED</text>
 <circle cx="470" cy="247" r="4" fill="#39ff14"/>
 <text x="484" y="252" font-size="13.5" fill="#61afef">Terminal:</text>
-<text x="567.2" y="252" font-size="13.5" fill="#c9d1d9">ERC (Electronics and Robotics Club)</text>
+<text x="567.2" y="252" font-size="13.5" fill="#c9d1d9">UNDEFINED</text>
 <circle cx="470" cy="267" r="4" fill="#39ff14"/>
 <text x="484" y="272" font-size="13.5" fill="#61afef">CPU:</text>
-<text x="525.2" y="272" font-size="13.5" fill="#c9d1d9">Physics . ML . Electronics . Robotics . DSA</text>
+<text x="525.2" y="272" font-size="13.5" fill="#c9d1d9">Mathematics . Physics . ML . Electronics . Robotics . DSA</text>
 <circle cx="470" cy="287" r="4" fill="#39ff14"/>
 <text x="484" y="292" font-size="13.5" fill="#61afef">Memory:</text>
 <text x="550.4" y="292" font-size="13.5" fill="#c9d1d9">learns by building, not by reading</text>
@@ -74,10 +74,8 @@
 <rect x="460" y="222" width="22" height="22" rx="3" fill="#ffffff" stroke="#30363d"/>
 <text x="40" y="278" font-size="13.5" fill="#30363d">----------------------------------------------------------------------------------------------------------------------</text>
 <text x="40" y="312" font-size="14" fill="#39ff14">arjun@iitb:~$ <tspan fill="#c9d1d9">cat about.txt</tspan></text>
-<text x="40" y="338" font-size="13.5" fill="#8b949e">I do not stick to one field. I pick what is hard and I finish it.</text>
-<text x="40" y="358" font-size="13.5" fill="#8b949e">If something looks impossible, that is usually the thing I end up</text>
-<text x="40" y="378" font-size="13.5" fill="#8b949e">doing anyway. I work alone by default and I would rather suffer</text>
-<text x="40" y="398" font-size="13.5" fill="#8b949e">through the hard way than take a shortcut that teaches me nothing.</text>
+<text x="40" y="338" font-size="13.5" fill="#8b949e">I do not stick to one field. I pick what is hard and suffer finishing it ;)</text>
+<text x="40" y="358" font-size="13.5" fill="#8b949e">It is all about random 3AM motivational builds.</text>
 <text x="40" y="432" font-size="14" fill="#39ff14">arjun@iitb:~$ <tspan fill="#c9d1d9">./skills.sh --focus</tspan></text>
 <text x="40" y="456" font-size="13.5" fill="#c678dd">[pure mathematics &amp; physics]</text>
 <text x="280.6" y="456" font-size="13.5" fill="#61afef">[machine learning / financial NLP]</text>
