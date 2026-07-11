@@ -80,7 +80,7 @@
 <text x="778.0" y="420" font-size="13.5" fill="#39ff14">[quant / DSA (C++)]</text>
 <text x="40" y="445" font-size="14" fill="#39ff14">arjun@iitb:~$ <tspan fill="#c9d1d9">./tech_stack.sh --used</tspan></text>
 
-<g transform="translate(40, 460)">
+<g transform="translate(40, 455)">
   <rect width="82" height="28" rx="4" fill="#0D1117" stroke="#30363d" stroke-width="1"/>
   <g transform="translate(8, 6) scale(0.65)">
     <path d="M14.25.18c-2.74 0-5.4.2-5.4.2s-2.5.25-2.5 2.45v2.1h5.6v.75H4.25C1.8.7 1.8 11.05 1.8 11.05s.12 2.2 2.45 2.2h1.95v-2.75c0-2.45 2.1-4.5 4.56-4.5h5.53v-3.7c0-2.25-2.2-2.12-2.2-2.12h-.84zm-2.8 2.07c.5 0 .9.4.9.9s-.4.9-.9.9-.9-.4-.9-.9.4-.9.9-.9z" fill="#3776AB"/>
