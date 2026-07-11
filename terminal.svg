@@ -69,7 +69,7 @@
 <rect x="320" y="222" width="22" height="22" rx="3" fill="#8bffa0" stroke="#30363d"/>
 <rect x="348" y="222" width="22" height="22" rx="3" fill="#f0d590" stroke="#30363d"/>
 <rect x="376" y="222" width="22" height="22" rx="3" fill="#8fc6ff" stroke="#30363d"/>
-<text x="40" y="278" font-size="13.5" fill="#30363d">----------------------------------------------------------------------------------------------------------------------</text>
+<text x="40" y="300" font-size="13.5" fill="#30363d">----------------------------------------------------------------------------------------------------------------------</text>
 <text x="40" y="312" font-size="14" fill="#39ff14">arjun@iitb:~$ <tspan fill="#c9d1d9">cat about.txt</tspan></text>
 <text x="40" y="338" font-size="13.5" fill="#8b949e">I do not stick to one field. I pick what is hard and suffer finishing it ;)</text>
 <text x="40" y="358" font-size="13.5" fill="#8b949e">It is all about random 3AM motivational builds.</text>
