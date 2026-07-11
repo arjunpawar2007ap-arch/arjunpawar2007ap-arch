@@ -182,11 +182,13 @@
 
 <text x="40" y="534" font-size="14" fill="#39ff14">arjun@iitb:~$ <tspan fill="#c9d1d9">echo $LINKS</tspan></text>
 
-<text x="40" y="556" font-size="13.5" fill="#8b949e">Portfolio  ·  LinkedIn  ·  LeetCode</text>
+<text x="40" y="556" font-size="13" fill="#8b949e">Portfolio: https://arjunpawar2007ap-arch.github.io/Portfolio_site/</text>
+<text x="40" y="576" font-size="13" fill="#8b949e">LinkedIn : https://www.linkedin.com/in/arjun-pawar-959177277/</text>
+<text x="40" y="596" font-size="13" fill="#8b949e">LeetCode : https://leetcode.com/napoleonictrafficcone08</text>
 
-<text x="40" y="582" font-size="14" fill="#39ff14">arjun@iitb:~$ </text>
+<text x="40" y="622" font-size="14" fill="#39ff14">arjun@iitb:~$ </text>
 
-<rect x="156" y="569" width="9" height="16" fill="#39ff14">
+<rect x="156" y="609" width="9" height="16" fill="#39ff14">
   <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
 </rect>
 
