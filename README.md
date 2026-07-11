@@ -11,7 +11,7 @@ arjun@iitb:~$ fastfetch
 ██╔══██╗██╔══██╗     ██║██║   ██║████╗  ██║        ----------------
 ███████║██████╔╝     ██║██║   ██║██╔██╗ ██║        OS: Mechanical Engineering (B.Tech)
 ██╔══██║██╔══██╗██   ██║██║   ██║██║╚██╗██║        Host: IIT Bombay, 2024 Batch
-██║  ██║██║  ██║╚█████╔╝╚██████╔╝██║ ╚████║        Kernel: CPI 7.7
+██║  ██║██║  ██║╚█████╔╝╚██████╔╝██║ ╚████║       
 ╚═╝  ╚═╝╚═╝  ╚═╝ ╚════╝  ╚═════╝ ╚═╝  ╚═══╝        Uptime: 2nd Year
 
                                                     Packages: Robotics Minor, CMInDS Minor
