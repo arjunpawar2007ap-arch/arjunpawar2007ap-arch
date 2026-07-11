@@ -52,7 +52,7 @@
 <text x="567.2" y="252" font-size="13.5" fill="#c9d1d9">UNDEFINED</text>
 <circle cx="470" cy="267" r="4" fill="#39ff14"/>
 <text x="484" y="272" font-size="13.5" fill="#61afef">CPU:</text>
-<text x="525.2" y="272" font-size="13.5" fill="#c9d1d9">Mathematics . Physics . ML . Electronics . Robotics . DSA</text>
+<text x="525.2" y="272" font-size="13.5" fill="#c9d1d9">Mathematics.Physics.ML.Electronics.Robotics.DSA</text>
 <circle cx="470" cy="287" r="4" fill="#39ff14"/>
 <text x="484" y="292" font-size="13.5" fill="#61afef">Memory:</text>
 <text x="550.4" y="292" font-size="13.5" fill="#c9d1d9">learns by building, not by reading</text>
