@@ -93,7 +93,6 @@
     <path d="M436 142.3c0-75.2-60.8-136.2-136-136.2-108.8 0-216 83.2-216 220.8 0 136.8 111.2 219.2 216 219.2 73.6 0 134.4-58.4 136-132.8H346.4c-6.4 35.2-36.8 60.8-73.6 60.8-62.4 0-117.6-50.4-117.6-146.4 0-95.2 52.8-147.2 117.6-147.2 38.4 0 68.8 26.4 75.2 61.6H436z" fill="#00599C"/>
     <path d="M472 213.6h44.8v-44.8H544v44.8h44.8v28H544v44.8h-27.2v-44.8H472v-28zm146.4 0h44.8v-44.8h27.2v44.8h44.8v28h-44.8v44.8h-27.2v-44.8h-44.8v-28z" fill="#00599C"/>
   </g>
-  <text x="34" y="18" fill="#00599C" font-family="SFMono-Regular, Consolas, Monaco, monospace" font-size="12" font-weight="bold">C++</text>
 </g>
 <text x="40" y="520" font-size="14" fill="#39ff14">arjun@iitb:~$ <tspan fill="#c9d1d9">echo $STATUS</tspan></text>
 <text x="40" y="540" font-size="13.5" fill="#8b949e">open to collaborating on research, robotics, or ML</text>
