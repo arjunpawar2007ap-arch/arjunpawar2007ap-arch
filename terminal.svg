@@ -31,13 +31,13 @@
 <text x="533.6" y="112" font-size="13.5" fill="#c9d1d9">IIT Bombay '29</text>
 <circle cx="470" cy="127" r="4" fill="#39ff14"/>
 <text x="484" y="132" font-size="13.5" fill="#61afef">Kernel:</text>
-<text x="550.4" y="132" font-size="13.5" fill="#c9d1d9">UNDEFINED</text>
+<text x="550.4" y="132" font-size="13.5" fill="#c9d1d9">multidisciplinary-core-x86_64</text>
 <circle cx="470" cy="147" r="4" fill="#39ff14"/>
 <text x="484" y="152" font-size="13.5" fill="#61afef">Uptime:</text>
 <text x="550.4" y="152" font-size="13.5" fill="#c9d1d9">2nd Year</text>
 <circle cx="470" cy="167" r="4" fill="#39ff14"/>
 <text x="484" y="172" font-size="13.5" fill="#61afef">Packages:</text>
-<text x="567.2" y="172" font-size="13.5" fill="#c9d1d9">UNDEFINED</text>
+<text x="567.2" y="172" font-size="13.5" fill="#c9d1d9">20 (repos)</text>
 <circle cx="470" cy="187" r="4" fill="#39ff14"/>
 <text x="484" y="192" font-size="13.5" fill="#61afef">Shell:</text>
 <text x="542.0" y="192" font-size="13.5" fill="#c9d1d9">/bin/relentless</text>
@@ -46,10 +46,10 @@
 <text x="516.8" y="212" font-size="13.5" fill="#c9d1d9">SYSCON, Prof. Anguluri (Financial NLP)</text>
 <circle cx="470" cy="227" r="4" fill="#39ff14"/>
 <text x="484" y="232" font-size="13.5" fill="#61afef">WM:</text>
-<text x="516.8" y="232" font-size="13.5" fill="#c9d1d9">UNDEFINED</text>
+<text x="516.8" y="232" font-size="13.5" fill="#c9d1d9">Github</text>
 <circle cx="470" cy="247" r="4" fill="#39ff14"/>
 <text x="484" y="252" font-size="13.5" fill="#61afef">Terminal:</text>
-<text x="567.2" y="252" font-size="13.5" fill="#c9d1d9">UNDEFINED</text>
+<text x="567.2" y="252" font-size="13.5" fill="#c9d1d9">3AM-Console</text>
 <circle cx="470" cy="267" r="4" fill="#39ff14"/>
 <text x="484" y="272" font-size="13.5" fill="#61afef">CPU:</text>
 <text x="525.2" y="272" font-size="13.5" fill="#c9d1d9">Mathematics.Physics.ML.Electronics.Robotics.DSA</text>
