@@ -127,11 +127,20 @@
 
 <g transform="translate(500, 465)">
   <rect width="82" height="28" rx="4" fill="#0D1117" stroke="#30363d" stroke-width="1"/>
+  <g transform="translate(8, 6)">
+    <path d="M7 2L1 5v7l6 3 6-3V5L7 2z" fill="none" stroke="#FF9900" stroke-width="1.5" stroke-linejoin="round"/>
+    <path d="M1 5l6 3 6-3M7 8v7" fill="none" stroke="#FF9900" stroke-width="1"/>
+  </g>
+  <text x="28" y="18" fill="#FFFFFF" font-family="SFMono-Regular, Consolas, Monaco, monospace" font-size="11" font-weight="bold">Fusion</text>
+</g>
+  
+<g transform="translate(592, 465)">
+  <rect width="82" height="28" rx="4" fill="#0D1117" stroke="#30363d" stroke-width="1"/>
   <g transform="translate(7, 6)">
     <path d="M1 14c4-1 6-7 8-7s3 5 5 5 2-9 2-9" fill="none" stroke="#ED1C24" stroke-width="2" stroke-linecap="round"/>
     <path d="M1 14h15" fill="none" stroke="#8b949e" stroke-width="1" stroke-dasharray="2,2"/>
   </g>
-  <text x="28" y="18" fill="#FFFFFF" font-family="SFMono-Regular, Consolas, Monaco, monospace" font-size="11" font-weight="bold">MATLAB</text>
+  <text x="30" y="18" fill="#FFFFFF" font-family="SFMono-Regular, Consolas, Monaco, monospace" font-size="11" font-weight="bold">MATLAB</text>
 </g>
   
 <text x="40" y="520" font-size="14" fill="#39ff14">arjun@iitb:~$ <tspan fill="#c9d1d9">echo $STATUS</tspan></text>
